@@ -1,0 +1,11 @@
+C:\Users\AVA\source\repos\Shopp\Shop.Entities\bin\Debug\net8.0\Shop.Entities.deps.json
+C:\Users\AVA\source\repos\Shopp\Shop.Entities\bin\Debug\net8.0\Shop.Entities.dll
+C:\Users\AVA\source\repos\Shopp\Shop.Entities\bin\Debug\net8.0\Shop.Entities.pdb
+C:\Users\AVA\source\repos\Shopp\Shop.Entities\obj\Debug\net8.0\Shop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVA\source\repos\Shopp\Shop.Entities\obj\Debug\net8.0\Shop.Entities.AssemblyInfoInputs.cache
+C:\Users\AVA\source\repos\Shopp\Shop.Entities\obj\Debug\net8.0\Shop.Entities.AssemblyInfo.cs
+C:\Users\AVA\source\repos\Shopp\Shop.Entities\obj\Debug\net8.0\Shop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\AVA\source\repos\Shopp\Shop.Entities\obj\Debug\net8.0\Shop.Entities.dll
+C:\Users\AVA\source\repos\Shopp\Shop.Entities\obj\Debug\net8.0\refint\Shop.Entities.dll
+C:\Users\AVA\source\repos\Shopp\Shop.Entities\obj\Debug\net8.0\Shop.Entities.pdb
+C:\Users\AVA\source\repos\Shopp\Shop.Entities\obj\Debug\net8.0\ref\Shop.Entities.dll

@@ -1,0 +1,11 @@
+C:\Users\AVA\source\repos\Shopp\Shop.Application\bin\Debug\net8.0\Shop.Application.deps.json
+C:\Users\AVA\source\repos\Shopp\Shop.Application\bin\Debug\net8.0\Shop.Application.dll
+C:\Users\AVA\source\repos\Shopp\Shop.Application\bin\Debug\net8.0\Shop.Application.pdb
+C:\Users\AVA\source\repos\Shopp\Shop.Application\obj\Debug\net8.0\Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVA\source\repos\Shopp\Shop.Application\obj\Debug\net8.0\Shop.Application.AssemblyInfoInputs.cache
+C:\Users\AVA\source\repos\Shopp\Shop.Application\obj\Debug\net8.0\Shop.Application.AssemblyInfo.cs
+C:\Users\AVA\source\repos\Shopp\Shop.Application\obj\Debug\net8.0\Shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\AVA\source\repos\Shopp\Shop.Application\obj\Debug\net8.0\Shop.Application.dll
+C:\Users\AVA\source\repos\Shopp\Shop.Application\obj\Debug\net8.0\refint\Shop.Application.dll
+C:\Users\AVA\source\repos\Shopp\Shop.Application\obj\Debug\net8.0\Shop.Application.pdb
+C:\Users\AVA\source\repos\Shopp\Shop.Application\obj\Debug\net8.0\ref\Shop.Application.dll

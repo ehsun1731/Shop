@@ -1,0 +1,15 @@
+C:\Users\AVA\source\repos\Shopp\Shop.Services\bin\Debug\net8.0\Shop.Services.deps.json
+C:\Users\AVA\source\repos\Shopp\Shop.Services\bin\Debug\net8.0\Shop.Services.dll
+C:\Users\AVA\source\repos\Shopp\Shop.Services\bin\Debug\net8.0\Shop.Services.pdb
+C:\Users\AVA\source\repos\Shopp\Shop.Services\obj\Debug\net8.0\Shop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVA\source\repos\Shopp\Shop.Services\obj\Debug\net8.0\Shop.Services.AssemblyInfoInputs.cache
+C:\Users\AVA\source\repos\Shopp\Shop.Services\obj\Debug\net8.0\Shop.Services.AssemblyInfo.cs
+C:\Users\AVA\source\repos\Shopp\Shop.Services\obj\Debug\net8.0\Shop.Services.csproj.CoreCompileInputs.cache
+C:\Users\AVA\source\repos\Shopp\Shop.Services\obj\Debug\net8.0\Shop.Services.dll
+C:\Users\AVA\source\repos\Shopp\Shop.Services\obj\Debug\net8.0\refint\Shop.Services.dll
+C:\Users\AVA\source\repos\Shopp\Shop.Services\obj\Debug\net8.0\Shop.Services.pdb
+C:\Users\AVA\source\repos\Shopp\Shop.Services\obj\Debug\net8.0\ref\Shop.Services.dll
+C:\Users\AVA\source\repos\Shopp\Shop.Services\obj\Debug\net8.0\Shop.Services.csproj.AssemblyReference.cache
+C:\Users\AVA\source\repos\Shopp\Shop.Services\bin\Debug\net8.0\Shop.Entities.dll
+C:\Users\AVA\source\repos\Shopp\Shop.Services\bin\Debug\net8.0\Shop.Entities.pdb
+C:\Users\AVA\source\repos\Shopp\Shop.Services\obj\Debug\net8.0\Shop.Ser.7EEE7942.Up2Date

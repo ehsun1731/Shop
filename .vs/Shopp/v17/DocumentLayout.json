@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AVA\\source\\repos\\Shopp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF487FC-A760-404A-9482-D7DF7AF3DD7A}|Shop.Persistence.EF\\Shop.Persistence.EF.csproj|c:\\users\\ava\\source\\repos\\shopp\\shop.persistence.ef\\products\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF487FC-A760-404A-9482-D7DF7AF3DD7A}|Shop.Persistence.EF\\Shop.Persistence.EF.csproj|solutionrelative:shop.persistence.ef\\products\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEB309A-494D-4F2E-8B6D-94EE652CB1C5}|Migrations\\Migrations.csproj|c:\\users\\ava\\source\\repos\\shopp\\migrations\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EEB309A-494D-4F2E-8B6D-94EE652CB1C5}|Migrations\\Migrations.csproj|solutionrelative:migrations\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEB309A-494D-4F2E-8B6D-94EE652CB1C5}|Migrations\\Migrations.csproj|c:\\users\\ava\\source\\repos\\shopp\\migrations\\migrations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EEB309A-494D-4F2E-8B6D-94EE652CB1C5}|Migrations\\Migrations.csproj|solutionrelative:migrations\\migrations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B73960-B9E2-42FF-80FA-4806417E97FA}|ShopWebApi\\ShopWebApi.csproj|c:\\users\\ava\\source\\repos\\shopp\\shopwebapi\\controllers\\products\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B73960-B9E2-42FF-80FA-4806417E97FA}|ShopWebApi\\ShopWebApi.csproj|solutionrelative:shopwebapi\\controllers\\products\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF487FC-A760-404A-9482-D7DF7AF3DD7A}|Shop.Persistence.EF\\Shop.Persistence.EF.csproj|c:\\users\\ava\\source\\repos\\shopp\\shop.persistence.ef\\orderdetails\\eforderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF487FC-A760-404A-9482-D7DF7AF3DD7A}|Shop.Persistence.EF\\Shop.Persistence.EF.csproj|solutionrelative:shop.persistence.ef\\orderdetails\\eforderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B73960-B9E2-42FF-80FA-4806417E97FA}|ShopWebApi\\ShopWebApi.csproj|c:\\users\\ava\\source\\repos\\shopp\\shopwebapi\\controllers\\orderdetails\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B73960-B9E2-42FF-80FA-4806417E97FA}|ShopWebApi\\ShopWebApi.csproj|solutionrelative:shopwebapi\\controllers\\orderdetails\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Runner.cs",
+              "DocumentMoniker": "C:\\Users\\AVA\\source\\repos\\Shopp\\Migrations\\Runner.cs",
+              "RelativeDocumentMoniker": "Migrations\\Runner.cs",
+              "ToolTip": "C:\\Users\\AVA\\source\\repos\\Shopp\\Migrations\\Runner.cs",
+              "RelativeToolTip": "Migrations\\Runner.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAIA5wEcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:17:52.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\AVA\\source\\repos\\Shopp\\ShopWebApi\\Controllers\\Products\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShopWebApi\\Controllers\\Products\\ProductController.cs",
+              "ToolTip": "C:\\Users\\AVA\\source\\repos\\Shopp\\ShopWebApi\\Controllers\\Products\\ProductController.cs",
+              "RelativeToolTip": "ShopWebApi\\Controllers\\Products\\ProductController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAtwBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:14:37.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AVA\\source\\repos\\Shopp\\Shop.Persistence.EF\\OrderDetails\\EFOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Shop.Persistence.EF\\OrderDetails\\EFOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\AVA\\source\\repos\\Shopp\\Shop.Persistence.EF\\OrderDetails\\EFOrderDetailRepository.cs",
+              "RelativeToolTip": "Shop.Persistence.EF\\OrderDetails\\EFOrderDetailRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:13:31.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AVA\\source\\repos\\Shopp\\Shop.Persistence.EF\\Products\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop.Persistence.EF\\Products\\EFProductRepository.cs",
+              "ToolTip": "C:\\Users\\AVA\\source\\repos\\Shopp\\Shop.Persistence.EF\\Products\\EFProductRepository.cs",
+              "RelativeToolTip": "Shop.Persistence.EF\\Products\\EFProductRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:08:56.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Migrations",
+              "DocumentMoniker": "C:\\Users\\AVA\\source\\repos\\Shopp\\Migrations\\Migrations.csproj",
+              "RelativeDocumentMoniker": "Migrations\\Migrations.csproj",
+              "ToolTip": "C:\\Users\\AVA\\source\\repos\\Shopp\\Migrations\\Migrations.csproj",
+              "RelativeToolTip": "Migrations\\Migrations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T17:09:45.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\AVA\\source\\repos\\Shopp\\ShopWebApi\\Controllers\\OrderDetails\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "ShopWebApi\\Controllers\\OrderDetails\\OrderDetailController.cs",
+              "ToolTip": "C:\\Users\\AVA\\source\\repos\\Shopp\\ShopWebApi\\Controllers\\OrderDetails\\OrderDetailController.cs",
+              "RelativeToolTip": "ShopWebApi\\Controllers\\OrderDetails\\OrderDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:58:47.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
